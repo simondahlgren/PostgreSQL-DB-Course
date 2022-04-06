@@ -1,0 +1,30 @@
+﻿
+
+Från C#
+
+-- observation : 1st = []
+-- mätpunkter : x st = ---
+--> er viewmodel
+ 
+
+[-----------x------------------] => rätt = transaktion
+
+=> fel
+[]
+-
+-
+-
+-
+x
+-
+-
+-
+
+= använd transaktiion
+
+id 
+value - textbox
+category_id - combobox
+observation_id - 
+
+
